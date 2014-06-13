@@ -26,8 +26,21 @@ Just to get the feel of it, here are the links for the games(you don't have to d
 Pong:
 http://www.codeskulptor.org/#user34_hE2w8ZlYz5xxXrY.py
 
+Controls: w and s for player 1
+		  up and down for player 2
+
 Memory card:
 http://www.codeskulptor.org/#user34_a4QdrmNITvqzVn8.py
 
 Blackjack(Simple version):
 http://www.codeskulptor.org/#user34_8fYOLcun0mpuOEP.py
+
+In this version of blackjack dealer wins the tie
+
+Asteroids:
+http://www.codeskulptor.org/#user34_I0jMG9BXga32xZd.py
+
+Controls: up, left right arrow key for direction and space bar for firing missile.
+
+
+To view full funtionality of game, use Google Chrome.
