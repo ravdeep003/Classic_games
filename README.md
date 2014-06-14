@@ -38,7 +38,7 @@ http://www.codeskulptor.org/#user34_8fYOLcun0mpuOEP.py
 In this version of blackjack dealer wins the tie
 
 Asteroids:
-http://www.codeskulptor.org/#user34_I0jMG9BXga32xZd.py
+http://www.codeskulptor.org/#user34_pOkzpMNSIPZocv2.py
 
 Controls: up, left right arrow key for direction and space bar for firing missile.
 
